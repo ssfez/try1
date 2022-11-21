@@ -1,0 +1,8 @@
+  slackChannel: "ssfez"
+  exemptLabels: ["nostale"]
+  daysUntilPRStale: 3
+  daysUntilPRClose: 5
+  deletePRBranchAfterClose: true
+  exemptBranches: ["nostale"]
+  daysUntilBranchStale: 3
+  daysUntilBranchDelete: -1
